@@ -1,3 +1,3 @@
 # Gerador de senhas
-- O principal objetivo do gerador de senhas é gerar senhas aleatórias.
-- O tamanho desta senha fica a escolha da pessoa, podendo chegar no máximo em 26 caracteres. 
+- gerar senha aleatória.
+- O tamanho desta senha fica a escolha do usuário, podendo chegar no máximo de 26 caracteres. 
